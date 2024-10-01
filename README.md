@@ -1,5 +1,11 @@
 21cm Wavelength  Circular_Patch_Feed  Disk  Director Yagi  Antenna and 3D Graphic Software PROJECT
 
+
+A Begineer's Guide to Antenna Fabrication, Reception, Recording, Software Processing, and Graphic Display
+of the 21 cm Wavelength Microwave Electro-Magnatic Emission Spectrum
+from Neutral Hydrogen ( Inter-Stellar Mass ) Clouds within our Galaxy : The Milky Way
+
+
 An Efficient    Low_Noise Portable   Economical
 21cm Neutral Hydrogen Radio Telescope
 Antenna STUDENT EDITION
