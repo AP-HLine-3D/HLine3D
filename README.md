@@ -26,10 +26,14 @@ It is light enough to be mounted on a
 low cost photo tripod 
 
 The intent of this Project is to provide directions to fabricate a Student level 21cm Hydrogen Line
-Radio Telescope able to be fully constructed with hand tools. This antenna as excellent performance.
+Radio Telescope able to be fully constructed with hand tools. 
+
+This antenna as excellent performance.
+
 
 
 Additionally, Software has been designed to Process   IF_Avg *.txt files by
+
 Correcting the Spectra for Background Drift , 
 
 Normalizing the Spectra to Cold Sky,  
