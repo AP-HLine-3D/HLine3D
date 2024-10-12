@@ -29,7 +29,10 @@ The intent of this Project is to provide directions to fabricate a Student level
 Radio Telescope able to be fully constructed with hand tools. This antenna as excellent performance.
 
 
-Additionally, Software has been designed to Process   IF_Avg *.txt files 
-by  Correcting the for drift , Normalizing them to Cold Sky  Converting the spectra to a logarithmic dB scale
-and Processing the files into *.csv Formats  compatible with Rinearn 2D and 2D Graphics packages
+Additionally, Software has been designed to Process   IF_Avg *.txt files by
+Correcting the Spectra for Background Drift , 
+Normalizing the Spectra to Cold Sky,  
+Converting the Spectra to a logarithmic dB Scale  ( and future alternate scalings )
+and Processing the Spectra files into *.csv Formats  compatible with Rinearn 2D and 2D Graphics packages
+Current Output : Raw Data 2D File,   Frame to Frame Drift 2D File ,  Drift Corrected and Normalized File 2D / 3D compatible
 
