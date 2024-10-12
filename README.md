@@ -10,8 +10,8 @@
 21cm Wavelength  Circular_Patch_Feed  Disk  Director Yagi  Antenna and 3D Graphic Software PROJECT
 
 
-A Begineer's Guide to Antenna Fabrication, Reception, Recording, Software Processing, and Graphic Display
-of the 21 cm Wavelength Microwave Electro-Magnatic Emission Spectrum
+A Beginner's Guide to Antenna Fabrication, Reception, Recording, Software Processing, and Graphic Display
+of the 21 cm Wavelength Microwave Electro-Magnetic Emission Spectrum
 from Neutral Hydrogen ( Inter-Stellar Mass ) Clouds within our Galaxy : The Milky Way
 
 
