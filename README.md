@@ -18,10 +18,13 @@ from Neutral Hydrogen ( Inter-Stellar Mass ) Clouds within our Galaxy : The Milk
 An Efficient    Low_Noise Portable   Economical
 21cm Neutral Hydrogen Radio Telescope
 Antenna STUDENT EDITION
+
 If built carefully to correct dimensions
 This antenna will have the same
 performance as the original
+
 & 
+
 It is light enough to be mounted on a
 low cost photo tripod 
 
