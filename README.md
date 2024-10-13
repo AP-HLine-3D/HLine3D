@@ -35,7 +35,7 @@ This antenna as excellent performance.
 
 
 
-Additionally, Software has been designed to Process   IF_Avg *.txt files by
+Additionally, Software has been designed to Process  Daniel Kaminski IF_Avg *.txt files by
 
 Correcting the Spectra for Background Drift , 
 
@@ -43,7 +43,7 @@ Normalizing the Spectra to Cold Sky,
 
 Converting the Spectra to a logarithmic dB Scale  ( and future alternate scalings )   and
 
-Processing the Spectra files into *.csv Formats  compatible with Rinearn 2D and 2D Graphics packages
+Processing the Spectra files into *.csv Formats  compatible with Fumihiro Matsui Rinearn 2D and 2D Graphics packages
 
 Current Output : Raw Data 2D File,   Frame to Frame Drift 2D File ,  Drift Corrected and Normalized File 2D / 3D compatible
 
