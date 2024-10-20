@@ -52,6 +52,6 @@ To DOWNLOAD Files to your PC, Select a File & press the litte down arrow on the 
 
 PLEASE NOTE : 
     the Antenna  can be used with Any Software |
-    the Software can be used with any Antenna 
+    the Software can be used with Any Antenna 
 
 ![image](https://github.com/user-attachments/assets/fd411f34-84d0-44ef-977b-9533016505fb)
