@@ -47,11 +47,11 @@ Processing the Spectra files into *.csv Formats  compatible with Fumihiro Matsui
 
 Current Output : Raw Data 2D File,   Frame to Frame Drift 2D File ,  Drift Corrected and Normalized File 2D / 3D compatible
 
-To DOWNLOAD Files to your PC, Select a File & press the litte down arrow on the right side
-
 
 PLEASE NOTE : 
     the Antenna  can be used with Any Software |
     the Software can be used with Any Antenna 
+
+To DOWNLOAD Files to your PC, Select a File & press the litte down arrow on the right side
 
 ![image](https://github.com/user-attachments/assets/fd411f34-84d0-44ef-977b-9533016505fb)
