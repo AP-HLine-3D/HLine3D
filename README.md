@@ -53,6 +53,7 @@ PLEASE NOTE :
     the Software can be used with Any Antenna 
 _______________________________________________
 
-To DOWNLOAD Files to your PC, Select a File & press the litte down arrow on the right side
+To DOWNLOAD a File  to your PC, Select a File & Press the small Download Icon 
 
-![image](https://github.com/user-attachments/assets/fd411f34-84d0-44ef-977b-9533016505fb)
+![image](https://github.com/user-attachments/assets/0b854c90-f387-4875-803a-91b254675598)
+
