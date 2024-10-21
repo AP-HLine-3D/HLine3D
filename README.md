@@ -31,11 +31,11 @@ low cost photo tripod
 The intent of this Project is to provide directions to fabricate a Student level 21cm Hydrogen Line
 Radio Telescope able to be fully constructed with hand tools. 
 
-This antenna as excellent performance.
+This antenna has excellent performance.
 
 
 
-Additionally, Software has been designed to Process  Daniel Kaminski IF_Avg *.txt files by
+Additionally, Jamison Adcock has designed Java Software to Process SDR# Studio & Daniel Kaminski IF_Avg *.txt files by
 
 Correcting the Spectra for Background Drift , 
 
