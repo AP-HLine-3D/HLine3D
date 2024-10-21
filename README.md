@@ -39,7 +39,7 @@ SOFTWARE :
 
 Jamison Adcock has designed Java Software to Process 
 
-SDR# Studio & Daniel Kaminski IF_Avg *.txt files by
+AirSpy SDR# Studio & Daniel Kaminski IF_Avg *.txt files by
 
 Correcting the Spectra for Background Drift , 
 
