@@ -15,6 +15,7 @@ of the 21 cm Wavelength Microwave Electro-Magnetic Emission Spectrum
 from Neutral Hydrogen ( Inter-Stellar Mass ) Clouds within our Galaxy : The Milky Way
 
 HARDWARE :
+
 An Efficient    Low_Noise Portable   Economical
 21cm Neutral Hydrogen Radio Telescope
 Antenna STUDENT EDITION
@@ -35,7 +36,8 @@ This antenna has excellent performance.
 
 
 SOFTWARE :
-Additionally, Jamison Adcock has designed Java Software to Process SDR# Studio & Daniel Kaminski IF_Avg *.txt files by
+
+Jamison Adcock has designed Java Software to Process SDR# Studio & Daniel Kaminski IF_Avg *.txt files by
 
 Correcting the Spectra for Background Drift , 
 
