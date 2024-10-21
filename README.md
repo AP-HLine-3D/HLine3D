@@ -26,7 +26,9 @@ performance as the original
 It is light enough to be mounted on a very low cost photo tripod 
 
 The intent of this Project is to provide directions to 
+
 fabricate a Student level 21cm Hydrogen Line
+
 Radio Telescope able to be fully constructed with hand tools. 
 
 This antenna has excellent performance.
