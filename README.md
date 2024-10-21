@@ -63,8 +63,8 @@ To DOWNLOAD a File  to your PC, Select a File & Press the small Download Icon
 
 ![image](https://github.com/user-attachments/assets/0b854c90-f387-4875-803a-91b254675598)
 
+_________________________________________________________________________________
 
-
-Review by Carl Laufer  ( thanks Carl )
+Review by Carl Laufer  (   thanks Carl   )
 
 https://www.rtl-sdr.com/project-h-line-3d-beginners-guide-to-hydrogen-line-antenna-fabrication-reception-software-and-graphic-display/
