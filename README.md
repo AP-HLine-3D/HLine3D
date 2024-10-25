@@ -20,7 +20,7 @@ of the 21 cm Wavelength Microwave Electro-Magnetic Emission Spectrum
 from Neutral Hydrogen ( Inter-Stellar Mass ) Clouds within our Galaxy : The Milky Way
 
 THE GOAL : For a beginner ( high school or undergrad college student ) to have everything required 
-for an Astronomical H Line Radio Telescope System available in One repository, 
+for an operational Astronomical H Line Radio Telescope System available in One Repository, 
 and offer intriguing 3D graphics as a motivation to undertake the Project ! 
 
 
