@@ -61,7 +61,7 @@ Processing the Spectra files into *.csv Formats  compatible with
 
 Fumihiro Matsui Rinearn 2D and 2D Graphics packages
 
-Output : Raw Data 2D CSV, Frame to Frame Drift 2D CSV , Drift Corrected and Normalized 2D/3D CSV : all Rinearn compatible
+Output : Raw Data 2D/3D CSV, Frame to Frame Drift 2D CSV , 1pt & mx_b Drift Corrected and Normalized 2D/3D CSV : all Rinearn compatible
 
 ________________________________________________
 PLEASE NOTE : 
