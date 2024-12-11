@@ -79,6 +79,9 @@ Link to H Line 3D  Video
 https://www.youtube.com/watch?v=g5uV6zI_978
 ______________________________________________________________________________
 
+![image](https://github.com/user-attachments/assets/7dd14db6-a690-4d3c-9148-fe20e6fbb924)
+
+
 Review by Carl Laufer  (   thanks Carl   )
 
 https://www.rtl-sdr.com/project-h-line-3d-beginners-guide-to-hydrogen-line-antenna-fabrication-reception-software-and-graphic-display/
