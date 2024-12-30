@@ -79,7 +79,6 @@ Link to H Line 3D  Video
 https://www.youtube.com/watch?v=g5uV6zI_978
 ______________________________________________________________________________
 
-![image](https://github.com/user-attachments/assets/ad747084-9b4c-417f-9002-43ae422d1fb0)
 
 
 
