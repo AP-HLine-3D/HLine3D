@@ -6,7 +6,9 @@
 
 ![image](https://github.com/user-attachments/assets/036ca466-0cfa-4eef-92a9-42fe5dcdc674)
 
+Alternate Antennas  Yagi and Photo_Umbrella
 
+![image](https://github.com/user-attachments/assets/1ecc9e2c-3035-45e1-9553-58a3be16b48b)
 
 
 
