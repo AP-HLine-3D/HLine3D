@@ -56,7 +56,7 @@ This antenna has excellent performance.
 ________________________________________
 SOFTWARE :
 
-Jamison Adcock has designed Java Software to Process 
+Jamison Adcock performed the initial Java Software to Process 
 
 AirSpy SDR# Studio & Daniel Kaminski IF_Avg *.txt files by
 
@@ -71,6 +71,8 @@ Processing the Spectra files into *.csv Formats  compatible with
 Fumihiro Matsui Rinearn 2D and 2D Graphics packages
 
 Output : Raw Data 2D/3D CSV, Frame to Frame Drift 2D CSV , 1pt & mx+b Drift Corrected and Normalized 2D/3D CSV : all Rinearn compatible
+
+Best Regards,  Alex Pettit
 
 ________________________________________________
 PLEASE NOTE : 
