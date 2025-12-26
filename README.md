@@ -26,9 +26,11 @@ from Neutral Hydrogen ( Inter-Stellar Mass ) Clouds within our Galaxy : The Milk
 THE GOAL : For a beginner ( high school or undergrad college student ) to have everything required 
 for an operational Astronomical H Line Radio Telescope System Project available in One Repository, 
 and offer intriguing 3D graphics as a motivation to undertake the task ! 
---------------------------------------------------------------------------------------------------------------------------
 
-A High Performance, Near Off The Shelf Radio Telescope using a Kraken Discovery Feed & WiFi Dish
+_________________________________________________________________________
+_________________________________________________________________________
+
+A High Performance,    Near Off The Shelf    Radio Telescope using a Kraken Discovery Feed & WiFi Dish
 
 _![Kraken_Feed_Eval05](https://github.com/user-attachments/assets/6b2af04f-ab89-4c43-ac8c-7827d0d093f2)
 ____________________________________________________________________________________
