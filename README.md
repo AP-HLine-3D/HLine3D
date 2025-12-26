@@ -1,12 +1,13 @@
-![image](https://github.com/user-attachments/assets/43eade51-8f59-4f22-85b7-6dee1f250e02)
+
+
+<img width="1202" height="298" alt="image" src="https://github.com/user-attachments/assets/726e1679-d836-4669-a097-c6d794eb69e7" />
 
 
 
 
 
 
-
-Alternate Antennas  Yagi and Photo_Umbrella
+Relatively Easy User Fabricated  Antennas  Yagi and Photo_Umbrella
 ![image](https://github.com/user-attachments/assets/23e202b1-2517-4c28-aa92-a4cc5d67c459)
 
 
@@ -25,10 +26,12 @@ from Neutral Hydrogen ( Inter-Stellar Mass ) Clouds within our Galaxy : The Milk
 THE GOAL : For a beginner ( high school or undergrad college student ) to have everything required 
 for an operational Astronomical H Line Radio Telescope System Project available in One Repository, 
 and offer intriguing 3D graphics as a motivation to undertake the task ! 
+--------------------------------------------------------------------------------------------------------------------------
 
+A High Performance, Near Off The Shelf Radio Telescope using a Kraken Discovery Feed & WiFi Dish
 
-_____________![Kraken_Feed_Eval05](https://github.com/user-attachments/assets/6b2af04f-ab89-4c43-ac8c-7827d0d093f2)
-____________________________
+_![Kraken_Feed_Eval05](https://github.com/user-attachments/assets/6b2af04f-ab89-4c43-ac8c-7827d0d093f2)
+____________________________________________________________________________________
 HARDWARE :
 
 An Efficient    Low_Noise Portable   Economical
