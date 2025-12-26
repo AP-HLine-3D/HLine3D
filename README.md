@@ -87,6 +87,17 @@ PLEASE NOTE :
     the Software can be used with Any Antenna 
 _______________________________________________
 
+_______________________________________________________________________
+A Referece Hydrogen Line Distribution Chart 
+
+Courtesy :  Canadian Centre Amateur Radio Astronomy
+
+<img width="1178" height="698" alt="image" src="https://github.com/user-attachments/assets/28dbe176-abdf-4a1b-bf44-ec6ec6b7560e" />
+
+____________________________________________________________________
+
+___________________________________________________________________
+
 To DOWNLOAD a File  to your PC, Select a File & Press the small Download Icon 
 
 ![image](https://github.com/user-attachments/assets/0b854c90-f387-4875-803a-91b254675598)
