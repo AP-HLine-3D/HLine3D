@@ -58,10 +58,10 @@ SOFTWARE :
 
 Jamison Adcock wrote the initial Java Software to Process 
 
-AirSpy SDR# Studio & Daniel Kaminski IF_Avg *.txt files by
+AirSpy SDR# Studio & Daniel Kaminski IF_Avg *.txt files
+which  incorporated the Matlab Code I developed :
 
-Correcting the Spectra for Background Drift ,  and
-incorporated the Matlab Code I developed :
+Correcting the Spectra for Background Drift , 
 
 Normalizing the Spectra to Cold Sky,  
 
