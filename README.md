@@ -69,6 +69,8 @@ which  incorporated the Matlab Code I developed :
 
 Correcting the Spectra for Frame to Frame Background Drift , 
 
+Single Point and  now  mX + b Linear Slope Correction,
+
 Normalizing the Spectra to Cold Sky,  
 
 Converting the Spectra to a logarithmic dB Scale  
