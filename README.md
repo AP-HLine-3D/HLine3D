@@ -90,9 +90,9 @@ _______________________________________________
 _______________________________________________________________________
 A Referece Hydrogen Line Distribution Chart 
 
-Courtesy :  Canadian Centre Amateur Radio Astronomy
+Courtesy :  Canadian Centre for Experimental  Radio Astronomy
+<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/3570ecab-d4cb-4f30-a404-50c287d1050c" />
 
-<img width="1178" height="698" alt="image" src="https://github.com/user-attachments/assets/28dbe176-abdf-4a1b-bf44-ec6ec6b7560e" />
 
 ____________________________________________________________________
 
