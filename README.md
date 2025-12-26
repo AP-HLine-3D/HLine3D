@@ -30,9 +30,14 @@ and offer intriguing 3D graphics as a motivation to undertake the task !
 _________________________________________________________________________
 _________________________________________________________________________
 
+
+As an Alternate to Full User Fabrication, 
+
+Consider 
+
 A High Performance,    Near Off The Shelf    Radio Telescope using a Kraken Discovery Feed & WiFi Dish
 
-_![Kraken_Feed_Eval05](https://github.com/user-attachments/assets/6b2af04f-ab89-4c43-ac8c-7827d0d093f2)
+![Kraken_Feed_Eval05](https://github.com/user-attachments/assets/6b2af04f-ab89-4c43-ac8c-7827d0d093f2)
 ____________________________________________________________________________________
 HARDWARE :
 
