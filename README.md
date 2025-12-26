@@ -59,13 +59,14 @@ SOFTWARE :
 Jamison Adcock wrote the initial Java Software to Process 
 
 AirSpy SDR# Studio & Daniel Kaminski IF_Avg *.txt files
+
 which  incorporated the Matlab Code I developed :
 
-Correcting the Spectra for Background Drift , 
+Correcting the Spectra for Frame to Frame Background Drift , 
 
 Normalizing the Spectra to Cold Sky,  
 
-Converting the Spectra to a logarithmic dB Scale  ( future alternate scalings ) 
+Converting the Spectra to a logarithmic dB Scale  
 
 Processing the Spectra files into *.csv Formats  compatible with
 
