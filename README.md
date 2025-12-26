@@ -27,7 +27,8 @@ for an operational Astronomical H Line Radio Telescope System Project available 
 and offer intriguing 3D graphics as a motivation to undertake the task ! 
 
 
-_________________________________________
+_____________![Kraken_Feed_Eval05](https://github.com/user-attachments/assets/6b2af04f-ab89-4c43-ac8c-7827d0d093f2)
+____________________________
 HARDWARE :
 
 An Efficient    Low_Noise Portable   Economical
