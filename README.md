@@ -56,11 +56,12 @@ This antenna has excellent performance.
 ________________________________________
 SOFTWARE :
 
-Jamison Adcock performed the initial Java Software to Process 
+Jamison Adcock wrote the initial Java Software to Process 
 
 AirSpy SDR# Studio & Daniel Kaminski IF_Avg *.txt files by
 
-Correcting the Spectra for Background Drift , 
+Correcting the Spectra for Background Drift ,  and
+incorporated the Matlab Code I developed :
 
 Normalizing the Spectra to Cold Sky,  
 
