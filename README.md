@@ -29,7 +29,11 @@ for an operational Astronomical H Line Radio Telescope System Project available 
 and offer intriguing 3D graphics as a motivation to undertake the task ! 
 
 _________________________________________________________________________
-_________________________________________________________________________
+
+Pettit Cirdular Patch Feed Disk Yagi Student Edition  ENHANCED RELIABILITY version April 2026
+
+___![21cm_Yagi_ER_coverpage01](https://github.com/user-attachments/assets/f8d3ca83-66ed-49ae-a8e1-8c92f03b278a)
+______________________________________________________________________
 
 
 As an Alternate to Full User Fabrication, 
